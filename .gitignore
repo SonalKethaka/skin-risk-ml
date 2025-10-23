@@ -1,0 +1,10 @@
+# Python virtualenv
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data & model artifacts
+data/
+outputs/
+exports/
